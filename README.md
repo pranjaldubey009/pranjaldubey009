@@ -1,369 +1,191 @@
 
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Animated Developer Hero"/>
+<img src="assets/banner.gif" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Abhiman+Dubey;Full+Stack+Developer+in+Progress;Exploring+AI+%26+Modern+Web;Building+Ideas+Into+Products" />
+# Namaste 🙏 I'm Abhiman Dubey
 
-<br/>
+### Software Developer • AI Enthusiast • Builder
 
-<a href="https://github.com/pranjaldubey009">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://learniq-abhi.vercel.app/">
-<img src="https://img.shields.io/badge/PROJECT-LearnIQ-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=0891B2&center=true&vCenter=true&width=700&lines=Building+useful+digital+products;Exploring+AI+%26+Full+Stack;Learning+by+building+real+projects;Turning+ideas+into+code" />
 
 </div>
 
 ---
 
-<img src="assets/divider.svg" width="100%"/>
+## 🌱 About Me
 
-# `01 // ABOUT ME`
+<img align="right" width="340" src="assets/developer.png" />
 
-<img align="right" width="280" src="assets/terminal.svg" />
+- 👨‍💻 I'm a developer from Lucknow, India.
+- 🚀 I enjoy building web applications and digital products.
+- 🤖 Exploring AI, automation and intelligent tools.
+- 🌐 Interested in Full Stack Development.
+- 🧠 Learning new technologies through real projects.
+- ⚡ I believe in learning by building.
+- 🔍 Exploring software engineering and modern development workflows.
+- 🎯 Working towards becoming a stronger software developer.
 
-```yaml
-name: Abhiman Dubey
-username: pranjaldubey009
-location: India
+### Reach Me:
 
-role: Developer & Builder
+<a href="mailto:abhimandubey12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-interests:
-  - Software Development
-  - AI
-  - Full Stack Development
-  - Automation
-  - Open Source
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-currently:
-  - Building Projects
-  - Exploring AI
-  - Learning New Technologies
-```
+<a href="https://www.instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-I'm a developer who enjoys turning ideas into real digital products.
-
-My interests lie in software development, modern web technologies, artificial intelligence and experimenting with tools that make development smarter and more productive.
-
-- 💻 I build web-based projects.
-- 🤖 I explore AI-powered applications.
-- 🧠 I learn through experimentation.
-- 🚀 I focus on building real projects.
-- 🔍 I continuously explore new technologies.
+<a href="https://x.com/Pranjal_dubey01">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
 <br clear="right"/>
 
 ---
 
-<img src="assets/divider.svg" width="100%"/>
-
-# `02 // CURRENT MISSION`
+## 🧩 Languages & Tools I Have Explored
 
 <div align="center">
 
-| AREA | CURRENT DIRECTION |
-|---|---|
-| 🌐 Web | Modern web applications |
-| 🤖 AI | AI-powered workflows |
-| ⚙️ Backend | APIs & application logic |
-| 🗄️ Database | Data management |
-| 📈 Growth | Engineering fundamentals |
-| 🧪 Experiments | Building & testing ideas |
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,nextjs,nodejs,bun,postgres,prisma,supabase,firebase,git,github,vscode,vercel,figma,canva&perline=10" />
 
 </div>
 
 ---
 
-# `03 // TECHNOLOGY MATRIX`
-
-### Languages
+## 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,js,ts&theme=dark"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</div>
+<br/>
 
-### Frontend
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white"/>
 
-<div align="center">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-</div>
+<br/>
 
-### Backend & Data
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<div align="center">
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,bun,postgres,prisma,supabase,firebase&theme=dark"/>
-
-</div>
-
-### Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,canva&theme=dark"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
 
 ---
 
-<img src="assets/divider.svg" width="100%"/>
-
-# `04 // TECH I EXPLORE`
-
-<details>
-<summary><b>Programming Languages</b></summary>
-
-- Python
-- C
-- JavaScript
-- TypeScript
-- SQL
-
-</details>
-
-<details>
-<summary><b>Frontend Technologies</b></summary>
-
-- HTML5
-- CSS3
-- React
-- Next.js
-- Tailwind CSS
-
-</details>
-
-<details>
-<summary><b>Backend & Database</b></summary>
-
-- Node.js
-- Bun
-- PostgreSQL
-- Prisma
-- Supabase
-- Firebase
-
-</details>
-
-<details>
-<summary><b>Development Tools</b></summary>
-
-- Git
-- GitHub
-- Visual Studio Code
-- Vercel
-- Figma
-- Canva
-
-</details>
-
----
-
-<img src="assets/divider.svg" width="100%"/>
-
-# `05 // FEATURED PROJECTS`
-
-<div align="center">
+## 🚀 Projects
 
 ### 🧠 LearnIQ
 
-</div>
-
-A modern web project focused on exploring digital learning experiences and technology-driven learning solutions.
-
-<div align="center">
+An AI-oriented learning platform and web development project.
 
 <a href="https://learniq-abhi.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20PROJECT-Live-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Live%20Website-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/pranjaldubey009/LearnIQ">
-<img src="https://img.shields.io/badge/SOURCE-CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
-
-**Project interests:**
-
-- Modern web interfaces
-- Interactive applications
-- AI exploration
-- User-focused design
-
----
-
-<div align="center">
 
 ### 💪 SyncFit
 
-</div>
-
-A fitness and habit tracking project exploring how digital tools can help people build better routines and consistency.
-
-**Project focus:**
-
-- Habit tracking
-- Routine management
-- Web application development
-- PWA exploration
+A fitness and habit tracking web application concept focused on daily routines and consistency.
 
 <a href="https://github.com/pranjaldubey009/syncfit-habits">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+### 🎨 CreatorFctry
 
-### 🧪 Other Experiments
+Exploring the idea of a creative digital studio focused on content, branding and creator services.
 
-I also explore ideas involving:
+### 🧪 Developer Experiments
 
-- AI integrations
-- Automation
-- APIs
-- UI experiments
-- Developer tools
-- Application prototypes
+Small projects, prototypes and experiments with different technologies.
 
 ---
 
-<img src="assets/divider.svg" width="100%"/>
-
-# `06 // HOW I BUILD`
-
-```mermaid
-flowchart LR
-    A[IDEA] --> B[RESEARCH]
-    B --> C[DESIGN]
-    C --> D[BUILD]
-    D --> E[TEST]
-    E --> F[DEPLOY]
-    F --> G[IMPROVE]
-    G --> D
-```
-
-I approach projects as a continuous cycle of experimentation.
-
-Rather than stopping at theory, I try to build, test, understand and improve.
-
----
-
-# `07 // DEVELOPER WORKFLOW`
-
-```text
-┌──────────────────────────────────────┐
-│              WORKFLOW               │
-├──────────────────────────────────────┤
-│ 01. Explore the problem              │
-│ 02. Research solutions               │
-│ 03. Design the architecture          │
-│ 04. Build the prototype              │
-│ 05. Test and debug                   │
-│ 06. Deploy                           │
-│ 07. Improve                          │
-└──────────────────────────────────────┘
-```
-
----
-
-<img src="assets/divider.svg" width="100%"/>
-
-# `08 // GITHUB STATISTICS`
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranjaldubey009&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pranjaldubey009&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaldubey009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaldubey009&layout=compact&theme=transparent&hide_border=true" width="48%"/>
 
 </div>
 
 ---
 
-# `09 // STREAK`
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pranjaldubey009&theme=tokyonight&hide_border=true" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=pranjaldubey009&theme=transparent&hide_border=true" width="90%"/>
 
 </div>
 
 ---
 
-<img src="assets/divider.svg" width="100%"/>
-
-# `10 // CONTRIBUTION GRAPH`
+## 🐍 Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjaldubey009&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://raw.githubusercontent.com/pranjaldubey009/pranjaldubey009/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-# `11 // CONTRIBUTION SNAKE`
+## ☕ Support Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pranjaldubey009/pranjaldubey009/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-<img src="assets/divider.svg" width="100%"/>
-
-# `12 // WHAT I BELIEVE`
-
-```text
-Curiosity > Comfort
-
-Building > Overthinking
-
-Consistency > Intensity
-
-Learning never stops.
-```
-
----
-
-# `13 // CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/pranjaldubey009">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://www.buymeacoffee.com/">
+<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pranjaldubey009&style=for-the-badge&color=0e7490&label=PROFILE+VISITORS"/>
 
 <br/><br/>
 
-**`BUILD // LEARN // REPEAT`**
-
-<sub>Thanks for exploring my corner of GitHub.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:155e75,100:2563eb&height=120&section=footer" width="100%"/>
+<img src="assets/pixel-landscape.gif" width="100%" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pranjaldubey009&style=flat-square&color=0891b2&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
+
+
